@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Chatbot ka title
-st.title("🤖 CodeAlpha FAQ Chatbot")
+st.title("🤖 FAQ Chatbot")
 st.write("Ask me a question about our services!")
 
 # FAQ data: questions aur answers
